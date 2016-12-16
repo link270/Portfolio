@@ -1,2 +1,2 @@
 # Portfolio
-Personal portfolio website
+Web game project for CS2610
