@@ -1,4 +1,4 @@
-var COLS = 45, ROWS = 30;
+var COLS = 40, ROWS = 20;
 
 var EMPTY=0, SNAKE=1, FOOD=2;
 
