@@ -1,35 +1,10 @@
-/*colors:
-  Sky: #CAEBF2
-  Carbon: #A9A9A9
-  Watermelon: #FF383F
-  Neutral: #EFEFEF
-*/
-
-body {
-  padding: 30px 200px;
-  background-color: #A9A9A9;
-}
-
-nav {
-  padding: 20px;
-  font-family: Baskerville, “Baskerville Old Face”, “Hoefler Text”, Garamond, “Times New Roman”, serif;
-  font-size: 20px;
-}
-
-nav a {
-  color: #CAEBF2;
-  padding: 10px;
-  text-decoration: none;
-  background-color: #bfbfbf;
-}
-
-nav a:hover {
-  color: #EFEFEF;
-  background-color: #A9A9A9;
-}
-
-h1{
-  color: #EFEFEF;
-  font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
-  font-size: 45px;
+canvas {
+  display: block;
+  position: : absolute;
+  border: 3px solid #000;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
